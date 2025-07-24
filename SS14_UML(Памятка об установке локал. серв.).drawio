@@ -1,0 +1,61 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 OPR/120.0.0.0 (Edition GX-CN)" version="28.0.6">
+  <diagram name="Page-1" id="3e8102d1-ef87-2e61-34e1-82d9a586fe2e">
+    <mxGraphModel dx="1460" dy="1423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OWTb0kHqQhGbyCQGu844-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="-240" width="1040" height="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="OWTb0kHqQhGbyCQGu844-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="70666756c84bb93c-1" target="OWTb0kHqQhGbyCQGu844-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="70666756c84bb93c-1" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=14;strokeColor=none;fillColor=#0069D1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="110" width="500" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="70666756c84bb93c-2" value="Что необходимо&lt;div&gt;Для запуска&lt;/div&gt;&lt;div&gt;Локал. сервера SS14?&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=22;strokeColor=none;fillColor=#ffffff;fontColor=#0069D1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="400" y="230" width="260" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="OWTb0kHqQhGbyCQGu844-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OWTb0kHqQhGbyCQGu844-3" target="OWTb0kHqQhGbyCQGu844-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OWTb0kHqQhGbyCQGu844-3" value="Visual Studio Code" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OWTb0kHqQhGbyCQGu844-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OWTb0kHqQhGbyCQGu844-4" target="OWTb0kHqQhGbyCQGu844-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OWTb0kHqQhGbyCQGu844-4" value="Git" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OWTb0kHqQhGbyCQGu844-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OWTb0kHqQhGbyCQGu844-5" target="OWTb0kHqQhGbyCQGu844-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OWTb0kHqQhGbyCQGu844-5" value="DotNet 9" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OWTb0kHqQhGbyCQGu844-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OWTb0kHqQhGbyCQGu844-6" target="OWTb0kHqQhGbyCQGu844-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OWTb0kHqQhGbyCQGu844-6" value="Pythone 3.7+" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OWTb0kHqQhGbyCQGu844-7" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;В случае отсутствия python файла в сборке&lt;/h1&gt;&lt;p&gt;Стоит скачать Visual Studio и внутри него запустить установку зависимостей для вашего локального сервера.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="-150" width="180" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="OWTb0kHqQhGbyCQGu844-10" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;GIT&lt;/h1&gt;&lt;p&gt;&lt;b&gt;Программа, отвечающая за работу команд с GitHub&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(Есть и другие интересные компоненты для работы с GitHub и разработкой, но о них в будущем)&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="820" y="160" width="180" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="OWTb0kHqQhGbyCQGu844-12" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;DotNet&lt;/h1&gt;&lt;p&gt;&lt;b&gt;Платформа для программирования SS14&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;(Она временами обновляется для сборок SS14. Следите за актуальными версиями DotNet)&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="810" y="460" width="180" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="OWTb0kHqQhGbyCQGu844-14" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;VSC&lt;/h1&gt;&lt;p&gt;&lt;b&gt;Удобный редактор для документов&lt;/b&gt;&lt;br&gt;&lt;br&gt;(Вы можете так же писать код, хоть на блокноте, Rider, Visual Studio - Главное, чтобы вам было удобно.)&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="140" width="180" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="OWTb0kHqQhGbyCQGu844-17" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Pythone&lt;/h1&gt;&lt;p&gt;&lt;b&gt;Потребуется для установки зависимостей для локальной сборки.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(Советую скачивать заранее последнюю версию Питона через официальный сайт.)&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="490" width="180" height="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
